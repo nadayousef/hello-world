@@ -16,3 +16,13 @@ using namespace std;
 					k++;
 				}
 			}
+     if (i % 2 == 0) {
+       w = (k - 9);
+				k = w;
+			}
+			else {
+		 w = (k - 11);
+		 k = w;
+			}
+		}
+			}
